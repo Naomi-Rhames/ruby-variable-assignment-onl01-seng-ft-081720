@@ -1,3 +1,3 @@
 phrase="Hello World"
-    puts "Hello World"
+    phrase "Hello World"
 end
