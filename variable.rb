@@ -1,3 +1,3 @@
-def greetings="Hello World"
+="Hello World"
     puts"Hello World"
 end
