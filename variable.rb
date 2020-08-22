@@ -1,3 +1,3 @@
-greetings="Hello World"
-    puts phrase "Hello World"
+phrase="Hello World"
+    puts "Hello World"
 end
