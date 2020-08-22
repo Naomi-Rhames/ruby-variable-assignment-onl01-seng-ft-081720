@@ -1,3 +1,3 @@
 greetings ="Hello World"
-    puts"Hello World" #{greetings}
+    puts"Hello World"#{greetings}
 end
